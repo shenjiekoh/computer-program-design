@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HW05_03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  HW05_01.cpp
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(40): note: see reference to function template instantiation 'double Mean<short>(const T *,unsigned int)' being compiled
+          with
+          [
+              T=short
+          ]
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(41): note: see reference to function template instantiation 'T Max<short>(const T *,unsigned int)' being compiled
+          with
+          [
+              T=short
+          ]
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(42): note: see reference to function template instantiation 'double Q1<short>(const T *,unsigned int)' being compiled
+          with
+          [
+              T=short
+          ]
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(149): warning C4018: '<': signed/unsigned mismatch
+  d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(43): note: see reference to function template instantiation 'double SD<short>(const T *,unsigned int)' being compiled
+          with
+          [
+              T=short
+          ]
+d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  d:\程式設計\hw5\e14075304\hw05_03\hw05_01.cpp(44): note: see reference to function template instantiation 'double In2SD<short>(const T *,unsigned int)' being compiled
+          with
+          [
+              T=short
+          ]
+  HW05_03.vcxproj -> D:\程式設計\HW5\E14075304\Debug\HW05_01.exe
